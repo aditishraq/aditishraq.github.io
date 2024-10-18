@@ -548,12 +548,12 @@ header.masthead .intro-text .intro-heading {
 }
 @media (min-width: 1000px) {
   .portfolio-modal .modal-dialog {
-    max-width: 70vw;
+    min-width: 70vw;
   }
 }
 @media (min-width: 1800px) {
   .portfolio-modal .modal-dialog {
-    max-width: 30vw;
+    min-width: 30vw;
   }
 }
 
